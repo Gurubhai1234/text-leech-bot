@@ -1,5 +1,5 @@
 <!-- RAINBOW LINE TOP -->
-<img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/Gurubhai1234/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- GIF HEADER -->
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/banner-header.gif">
@@ -12,7 +12,7 @@
 ## Deploy To Heroku<p align="center">
 
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SudoR2spr/text-leech-bot)<p align="center">
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Gurubhai1234/text-leech-bot)<p align="center">
 
 
 ## Deploy To Google Colab
